@@ -30,7 +30,6 @@ I'm a passionate Front-End Developer with a strong interest in web technologies 
 
 ### 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mohammedmekkaoui/)
-- [Twitter](https://twitter.com/your-username)
 - Email: mekkmohammed08@gmail.com
 
 ### 🎓 Certifications
